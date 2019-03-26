@@ -23,3 +23,30 @@ Nun folgen erste Umsetztungen des Plans in Greenfoot. Die erste Gegnerklasse hab
 diese immer den gleichen Pfad ablaufen. Dazu haben wir gewisse Wegpunkte festgelegt, an denen sich die Gegner dann in die Richtug des nächsten Wegpunktes drehen. Somit konnten wir dem perfekten Weg kontruieren.
 
 ### 15.01.19:
+Der Pfad wurde fertiggestellt und wir haben uns weiter Gedanken über die verschiedenen Gegnerklassen gemacht.
+
+### 21.01.19:
+
+### 22.01.19:
+
+### 29.01.19:
+
+### 04.02.19:
+
+### 12.02.19:
+
+### 19.02.19:
+
+### 25.02.19:
+
+### 26.02.19:
+
+### 04.03.19:
+
+### 05.03.19:
+
+### 18.03.19:
+
+### 25.03.19:
+
+### 26.03.19:
