@@ -13,4 +13,13 @@ Dabei haben wir unter anderem im Internet nach Minispielen geguckt und haneb so 
 Die  Ideenfindung aus der letzten Stunde wurde weitergeführt und wir haben erste Spielekonzepte entwicket und verbessert.
 Somit haben wir diese Stunde mit Brainstorm verbracht.
 
+### 08.01.19:
+Nach den Ferien mussten wir uns erst kurz in die Ergebnisse und Mitschriften der letzten Stunde reinarbeiten und lesen, um uns 
+nun für eines der Konzepte zu entscheiden. Unsere Wahl traf auf das "Tower-Defens" Genre. Nun entwarfen wir einen groben Plan,
+wie unser speil aufgebaut sein soll und welche Komponetnten enthalten sein sollen.
 
+### 14.01.19:
+Nun folgen erste Umsetztungen des Plans in Greenfoot. Die erste Gegnerklasse haben wir auch erstellt und nun wollten wir, dass
+diese immer den gleichen Pfad ablaufen. Dazu haben wir gewisse Wegpunkte festgelegt, an denen sich die Gegner dann in die Richtug des nächsten Wegpunktes drehen. Somit konnten wir dem perfekten Weg kontruieren.
+
+### 15.01.19:
