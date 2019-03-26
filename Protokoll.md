@@ -51,8 +51,13 @@ Es wurde an der ersten Turret-Klasse gearbeitet, wobei wir Eigenscahften wie Rei
 dem vorrigen Projekt bereits wusssten, wie man projektile erstellt mussten wir hierfür keine großartige Recherche betreiben.
 
 ### 25.02.19:
+Da verschiedene Turret-Klassen geplant sind setzten wir eine Lebenspunktanzahl für die Gegnertypen fest und setzten 
+verschiedene Reichweiten, Feuerraten und Schadenpunkte für die Turret.Klassen an, wobei wir uns jedoch vorerst nur mit 
+einer davon auseinandersetzten.
 
 ### 26.02.19:
+Da wir bisher immer die Gegner manuell, mit Betätigung einer bestimmten Taste, Gegner am Anfang des Pfades erschienen ließen
+schrieben wir nun den Code so um, dass diese automatisch mit einem gewissen Zeitabstand erscheinen.
 
 ### 04.03.19:
 
