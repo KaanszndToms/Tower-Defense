@@ -20,18 +20,27 @@ wie unser speil aufgebaut sein soll und welche Komponetnten enthalten sein solle
 
 ### 14.01.19:
 Nun folgen erste Umsetztungen des Plans in Greenfoot. Die erste Gegnerklasse haben wir auch erstellt und nun wollten wir, dass
-diese immer den gleichen Pfad ablaufen. Dazu haben wir gewisse Wegpunkte festgelegt, an denen sich die Gegner dann in die Richtug des nächsten Wegpunktes drehen. Somit konnten wir dem perfekten Weg kontruieren.
+diese immer den gleichen Pfad ablaufen. Dazu haben wir gewisse Wegpunkte festgelegt, an denen sich die Gegner dann in 
+die Richtug des nächsten Wegpunktes drehen. Somit konnten wir dem perfekten Weg kontruieren.
 
 ### 15.01.19:
 Der Pfad wurde fertiggestellt und wir haben uns weiter Gedanken über die verschiedenen Gegnerklassen gemacht.
 
 ### 21.01.19:
+Da wir die Geschwindigkeit der Gegener selbst bei geringstmöglichster Geschwindigkeit asl zu schmell empfanden, suhcten wir 
+nach Möglichkeiten diese noch weiter zu reduzieren. Nach unser Lehrer Herr Buhl gab uns den Hinweis die Recherche nach 
+Smooth-Mover fortzusetzen.
 
 ### 22.01.19:
+Es wurde weiter zum Smooth-Mover recherchiert, und ausprobiert.
 
 ### 29.01.19:
+Da wir immernoch keine Lösung fanden wurde wieder nur recherchiert.
 
 ### 04.02.19:
+Nun haben wir Herrn Buhl um Rat gefragt und nach einem kleinen Hinweiß auf einen Fehler im Code sind wir jetzt recht schnell
+zur Lösung des Problems gelangt und wir konnten den Smooth-Mover einrichten und endlcih die perfekte Geschwindigkeit der 
+Gegner festlegen
 
 ### 12.02.19:
 
