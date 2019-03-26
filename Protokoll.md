@@ -1,7 +1,7 @@
 Stundenprotokolle
 =
 ## Vorwort:
-ImFolgenden sind undere Arbeitschritte vom Informatikprojekt bis zum 26.03.19 protokolliert
+Im Folgenden sind unsere Arbeitsschritte vom Informatikprojekt bis zum 26.03.19 protokolliert.
 ***
 ## Protokolle:
 
