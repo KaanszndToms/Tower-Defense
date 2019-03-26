@@ -40,11 +40,15 @@ Da wir immernoch keine Lösung fanden wurde wieder nur recherchiert.
 ### 04.02.19:
 Nun haben wir Herrn Buhl um Rat gefragt und nach einem kleinen Hinweiß auf einen Fehler im Code sind wir jetzt recht schnell
 zur Lösung des Problems gelangt und wir konnten den Smooth-Mover einrichten und endlcih die perfekte Geschwindigkeit der 
-Gegner festlegen
+Gegner festlegen.
 
 ### 12.02.19:
+Jetzt folgen die eigenen Turrets, mit denen die Gegner abgewehrt werden können. Dazu erstellten wir machten wir eine 
+kleine Klassenumfrage, bei der wir uns weitere Ideen erhofften. Anschließend wurden einige Turret-Konzepte entwickelt.
 
 ### 19.02.19:
+Es wurde an der ersten Turret-Klasse gearbeitet, wobei wir Eigenscahften wie Reichweite und Feuerrate festlegten. Da wir aus 
+dem vorrigen Projekt bereits wusssten, wie man projektile erstellt mussten wir hierfür keine großartige Recherche betreiben.
 
 ### 25.02.19:
 
