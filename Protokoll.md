@@ -60,11 +60,20 @@ Da wir bisher immer die Gegner manuell, mit Betätigung einer bestimmten Taste, 
 schrieben wir nun den Code so um, dass diese automatisch mit einem gewissen Zeitabstand erscheinen.
 
 ### 04.03.19:
+Da wir ebenfalls aus dem vorherigen Projekt eine Exposionsanimation hatten kamen wir auf die Idee diese bei Zerstörung 
+eines Gegners zu verwenden. Nun fiel uns beim Ausprobieren auf, dass immer der zuletzt in die Reichweite des Turrets
+getretene Gegner von diesem angegriffen wird, und nicht wie von uns erwünscht der zuerst eingetretene. ZUr Problemlösung 
+haben wir recherchiert.
 
 ### 05.03.19:
+Recherche gind weiter, jedoch konnten wir das Problem nicht lösen.
 
 ### 18.03.19:
+Im Greenfoot-Buch fanden wir etwas zu Liste in Java und haben dies im Projekt ausprobiert, haben es alledings nicht hinreichend
+geschafft.
 
 ### 25.03.19:
+Mit Hilfe von Herrn Buhl haben wir den Gegnern eine Variable hinzugefügt die bei allen Unterscheidlich ist, um diese in einer Liste zu sortrieren zu können.
 
 ### 26.03.19:
+
