@@ -17,11 +17,13 @@ einen Actor und ließen ihn von der Welt immer am gleichen Ort spawnen. Dann gab
 Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
 Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
 
-![bsp Wegpunkte](/Bilder Github/Wegpunkte.PNG)
+![bsp Wegpunkte](Bilder Github/Wegpunkte.PNG)
+![bsp Karte](Bilder Github/Unbekannt.PNG)
 
-Da wir mit der Geschwindigkeit nicht zufrieden waren, haben wir den Smooth-Mover verwendet, um die Geschwindigkeit weiter reduzieren zu können. 
+Da wir mit der Geschwindigkeit nicht zufrieden waren, haben wir den Smooth-Mover verwendet, um die Geschwindigkeit weiter 
+reduzieren zu können. 
 
-Bild
+
 
 Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad in gewünschter Geschwindigleit. Als nächstes braucht man die 
 Abwehrtüme. Diese sollten sich durch Eigenschaften wie Reichweite, Schaden, Feuerrate unterscheiden. Diese Eigenschaften 
