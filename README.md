@@ -1,21 +1,21 @@
-Informatikprojekt: Tower-Defence
+Informatikprojekt: Tower-Defense
 =
 ## Vorwort
-Im Rahmen des Informatikunterrichts haben wir, Kaan Huperz und Tom Heuser, uns dem Projekt gewidmet ein "Tower-Defence" 
+Im Rahmen des Informatikunterrichts haben wir, Kaan Huperz und Tom Heuser, uns dem Projekt gewidmet ein "Tower-Defense" 
 Minispiel zu entwickeln. Im Folgenden stellen wir dieses Projekt vor. Dabei ist wichtig zu erwähnen, dass das hier vorgesellte
 nicht das fertige Projekt ist, da noch Zeit zur Fertigstellung zur Verfügung steht. 
 
-## Was ist überhaupt "Tower-Defence"?
-Unter dem Begriff "Tower-Defence" versteht man eine eine Unterart der Echtzeit-Strategiespiele. Das Grundprinzip dieser Spiele
+## Was ist überhaupt "Tower-Defense"?
+Unter dem Begriff "Tower-Defense" versteht man eine eine Unterart der Echtzeit-Strategiespiele. Das Grundprinzip dieser Spiele
 geht folgendermaßen: In der Spielwelt laufen verschiedene Angreifertypen einen festgelegten Weg ab. Ziel ist es mit taktisch klugen 
 Positionierungen von Abwerhrtürmen (Turrets) die Angreifer daran zu hindern. Dabei stehen meist verschiedene Turm-Arten 
 zur Verfügung. 
 
 ## Unser Projekt:
-Für ein Tower-Defence Speil benötigt man zunächst erstmal die Gegner, die einen festgelegten Pfad ablaufen. Dazu erstellten wir 
+Für ein Tower-Defense Spiel benötigt man zunächst erstmal die Gegner, die einen festgelegten Pfad ablaufen. Dazu erstellten wir 
 einen Actor und ließen ihn von der Welt immer am gleichen Ort spawnen. Dann gaben wir ihm eine Richtung und eine 
 Bewegungsgeschwindigkeit. Nun haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
-Richtung weiterläuft. Dieses Verfahren haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
+Richtung weiterläuft. Dieses Verfahren haben wir fortgesetzt, bis der gewünschte Pfad entstand. 
 
 ![bsp Wegpunkte](Bilder Github/Wegpunkte.PNG)
 ![bsp Karte](Bilder Github/Unbekannt.PNG)
@@ -25,7 +25,7 @@ reduzieren zu können.
 
 ![Code Smooth-Mover](Bilder Github/Smooth-Mover 1.PNG)
 
-Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad in gewünschter Geschwindigkeit. Als nächstes braucht man die 
+Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad mit gewünschter Geschwindigkeit. Als nächstes brauchte man die 
 Abwehrtüme. Diese sollten sich durch Eigenschaften wie Reichweite, Schaden, Feuerrate unterscheiden. Diese Eigenschaften 
 legten wir wie folgt fest:
 
@@ -51,7 +51,7 @@ Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir
 
 ![Remove](Bilder Github/Remove.PNG)
 
-Dabei haben wir dem noch eine kleine Explosionsanimation hinzugefügt:
+Dabei haben wir noch eine kleine Explosionsanimation hinzugefügt:
 
 ![Expl](Bilder Github/Explosion.PNG)
 
@@ -60,8 +60,8 @@ fokussieren einen einzelnen Gegner, bis dieser ausgeschaltet wurde, sondern feue
 tritt. Dieses Problem haben wir folgendermaßen gelöst: Zunächst geben wir jedem Gegner eine unterschiedliche 
 Identifikationsnummer, wobei diese chronologisch zugewiesen wird, d.h. der erste hat die Nummer 0 der zweite 1 der dritte 2 usw.
 Dann haben wir eine Liste erstellt in die alle Gegner hinzugefügt werden, die in die Reichweite des Turrets treten. In dieser
-Liste wird dann geguckt welcher Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
-Information benutzen, um das richtige Ziel anzutreffen.
+Liste wird dann geguckt welcher der Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
+Information benutzen, um das richtige Ziel anzusteuern.
 
 ![Liste](Bilder Github/Liste 1.PNG)
 ![Liste](Bilder Github/Liste 2.PNG)
