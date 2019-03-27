@@ -2,11 +2,11 @@ Informatikprojekt: Tower-Defence
 =
 ## Vorwort
 Im Rahmen des Informatikunterrichts haben wir, Kaan Huperz und Tom Heuser, uns dem Projekt gewidmet ein "Tower-Defence" 
-Minispiel zu entwickeln. Im Folgenden stellen wir dises Projekt vor. Dabie ist wichtig zu erwähnen, dass das hier vorgesellte
-nicht das fertige Projekt ist, da ncoh Zeit zur Fertigstellung zur Verfügung steht. 
+Minispiel zu entwickeln. Im Folgenden stellen wir dieses Projekt vor. Dabei ist wichtig zu erwähnen, dass das hier vorgesellte
+nicht das fertige Projekt ist, da noch Zeit zur Fertigstellung zur Verfügung steht. 
 
 ## Was ist überhaupt "Tower-Defence"?
-Unter dem Begriff "Tower-Defence" versteht man eine eine Unterart der Echtzeit-Strategiespiele. Das Grundprinziep dieser Spiele
+Unter dem Begriff "Tower-Defence" versteht man eine eine Unterart der Echtzeit-Strategiespiele. Das Grundprinzip dieser Spiele
 geht folgendermaßen: In der Spielwelt laufen verschiedene Angreifertypen einen festgelegten Weg ab. Ziel ist es mit taktisch klugen 
 Positionierungen von Abwerhrtürmen (Turrets) die Angreifer daran zu hindern. Dabei stehen meist verschiedene Turm-Arten 
 zur Verfügung. 
@@ -14,8 +14,8 @@ zur Verfügung.
 ## Unser Projekt:
 Für ein Tower-Defence Speil benötigt man zunächst erstmal die Gegner, die einen festgelegten Pfad ablaufen. Dazu erstellten wir 
 einen Actor und ließen ihn von der Welt immer am gleichen Ort spawnen. Dann gaben wir ihm eine Richtung und eine 
-Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
-Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
+Bewegungsgeschwindigkeit. Nun haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
+Richtung weiterläuft. Dieses Verfahren haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
 
 ![bsp Wegpunkte](Bilder Github/Wegpunkte.PNG)
 ![bsp Karte](Bilder Github/Unbekannt.PNG)
@@ -25,7 +25,7 @@ reduzieren zu können.
 
 ![Code Smooth-Mover](Bilder Github/Smooth-Mover 1.PNG)
 
-Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad in gewünschter Geschwindigleit. Als nächstes braucht man die 
+Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad in gewünschter Geschwindigkeit. Als nächstes braucht man die 
 Abwehrtüme. Diese sollten sich durch Eigenschaften wie Reichweite, Schaden, Feuerrate unterscheiden. Diese Eigenschaften 
 legten wir wie folgt fest:
 
@@ -42,16 +42,16 @@ Feuerrate:
 
 ![Feuerrate](Bilder Github/Feuerrate.PNG)
 
-Um den Schadensaspekt überhaup verwenden zu können, brauchen unsere Gegner auch eine Anzahhl an Lebenspunkten:
+Um den Schadensaspekt überhaupt verwenden zu können, brauchen unsere Gegner auch eine Anzahl an Lebenspunkten:
 
 ![HP](Bilder Github/Hp.PNG)
 
 Wenn nun ein Gegner mit einem Projektil eines Turrets kollidiert wir ihm die Anzahl an Lebenspunkten abgezogen, die das 
-Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir er aus der Welt ernfernt:
+Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wird er aus der Welt entfernt:
 
 ![Remove](Bilder Github/Remove.PNG)
 
-Dabei haben wir dem noch eine kleich Explosionsanimation hinzugefügt:
+Dabei haben wir dem noch eine kleine Explosionsanimation hinzugefügt:
 
 ![Expl](Bilder Github/Explosion.PNG)
 
