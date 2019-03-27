@@ -48,6 +48,10 @@ Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir
 
 Bild
 
+Dabei haben wir dem noch eine kleich Explosionsanimation hinzugefügt:
+
+Bild
+
 Dait hat man schon den groben Ablauf des Spiels fertig, es exsistiert jedoch noch ein maßgebliches Problem: Die Turrets 
 fokussieren einen einzelnen Gegner, bis dieser ausgeschaltet wurde, sondern feuern immer auf den letzten, der in ihre Reichweite
 tritt. Dieses Problem haben wir folgendermaßen gelöst: Zunächst geben wir jedem gegner eine unterschiedliche 
