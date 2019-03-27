@@ -49,11 +49,11 @@ Um den Schadensaspekt überhaup verwenden zu können, brauchen unsere Gegner auc
 Wenn nun ein Gegner mit einem Projektil eines Turrets kollidiert wir ihm die Anzahl an Lebenspunkten abgezogen, die das 
 Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir er aus der Welt ernfernt:
 
-![Remove](Bilder Github/
+![Remove](Bilder Github/Remove.PNG)
 
 Dabei haben wir dem noch eine kleich Explosionsanimation hinzugefügt:
 
-Bild
+![Expl](Bilder Github/Explosion.PNG)
 
 Dait hat man schon den groben Ablauf des Spiels fertig, es exsistiert jedoch noch ein maßgebliches Problem: Die Turrets 
 fokussieren einen einzelnen Gegner, bis dieser ausgeschaltet wurde, sondern feuern immer auf den letzten, der in ihre Reichweite
@@ -63,6 +63,7 @@ Dann haben wir eine Liste erstellt in die alle Gegner hinzugefügt werden, die i
 Liste wird dann geckuckt welcher Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
 Information benutzen, um das richtige Ziel anzutreffen.
 
-Bilder
+![Liste](Bilder Github/Liste 1)
+![Liste](Bilder Github/Liste 2)
 
 
