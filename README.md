@@ -63,7 +63,7 @@ Dann haben wir eine Liste erstellt in die alle Gegner hinzugefügt werden, die i
 Liste wird dann geckuckt welcher Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
 Information benutzen, um das richtige Ziel anzutreffen.
 
-![Liste](Bilder Github/Liste 1)
-![Liste](Bilder Github/Liste 2)
+![Liste](Bilder Github/Liste 1.PNG)
+![Liste](Bilder Github/Liste 2.PNG)
 
 
