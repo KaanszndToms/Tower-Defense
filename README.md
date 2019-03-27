@@ -18,6 +18,7 @@ Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg fe
 Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
 
 ![bsp Wegpunkte](Bilder Github/Wegpunkte.PNG)
+
 ![bsp Karte](Bilder Github/Unbekannt.PNG)
 
 Da wir mit der Geschwindigkeit nicht zufrieden waren, haben wir den Smooth-Mover verwendet, um die Geschwindigkeit weiter 
