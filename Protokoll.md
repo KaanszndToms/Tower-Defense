@@ -77,7 +77,7 @@ Mit Hilfe von Herrn Buhl haben wir den Gegnern eine Variable hinzugefügt die be
 
 ### 26.03.19:
 Jetzt konnten wir die Gegner mithilfe der Liste nach der Variable ordnen und daraus den anzugreifenden Gegner 
-herauslesen lassen. Diese Information kann nun vom Projektil gesehen werden und wés weisß somit welchen Gegner es 
+herauslesen lassen. Diese Information kann nun vom Projektil gesehen werden und dieses weiß somit welchen Gegner es 
 antreffen soll. Da jedoch nur der Gegner als Objekt bei Zerstörung aus der Welt entfernt wird und nicht aus der Liste gelöscht
 wird haben wir recherchiert wie dies zu bewerkstelligen ist.
 
