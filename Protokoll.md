@@ -56,7 +56,7 @@ verschiedene Reichweiten, Feuerraten und Schadenpunkte für die Turret-Klassen a
 einer davon auseinandersetzten.
 
 ### 26.02.19:
-Da wir bisher immer die Gegner manuell, mit Betätigung einer bestimmten Taste, Gegner am Anfang des Pfades erschienen ließen
+Da wir bisher immer die Gegner manuell, mit Betätigung einer bestimmten Taste, am Anfang des Pfades erschienen ließen
 schrieben wir nun den Code so um, dass diese automatisch mit einem gewissen Zeitabstand erscheinen.
 
 ### 04.03.19:
