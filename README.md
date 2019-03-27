@@ -17,7 +17,7 @@ einen Actor und ließen ihn von der Welt immer am gleichen Ort spawnen. Dann gab
 Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
 Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
 
-![bsp Wegpunkte](Bilder Github/Wegpunkte.png)
+![bsp Wegpunkte](/Bilder Github/Wegpunkte.png)
 
 Da wir mit der Geschwindigkeit nicht zufrieden waren, haben wir den Smooth-Mover verwendet, um die Geschwindigkeit weiter reduzieren zu können. 
 
