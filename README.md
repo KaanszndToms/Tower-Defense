@@ -55,12 +55,12 @@ Dabei haben wir dem noch eine kleine Explosionsanimation hinzugefügt:
 
 ![Expl](Bilder Github/Explosion.PNG)
 
-Dait hat man schon den groben Ablauf des Spiels fertig, es exsistiert jedoch noch ein maßgebliches Problem: Die Turrets 
+Damit hat man schon den groben Ablauf des Spiels fertig, es existiert jedoch noch ein maßgebliches Problem: Die Turrets 
 fokussieren einen einzelnen Gegner, bis dieser ausgeschaltet wurde, sondern feuern immer auf den letzten, der in ihre Reichweite
-tritt. Dieses Problem haben wir folgendermaßen gelöst: Zunächst geben wir jedem gegner eine unterschiedliche 
+tritt. Dieses Problem haben wir folgendermaßen gelöst: Zunächst geben wir jedem Gegner eine unterschiedliche 
 Identifikationsnummer, wobei diese chronologisch zugewiesen wird, d.h. der erste hat die Nummer 0 der zweite 1 der dritte 2 usw.
 Dann haben wir eine Liste erstellt in die alle Gegner hinzugefügt werden, die in die Reichweite des Turrets treten. In dieser
-Liste wird dann geckuckt welcher Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
+Liste wird dann geguckt welcher Gegner die kleinste Id hat und dieser wird herausgegeben. Das Projektil kann nun diese 
 Information benutzen, um das richtige Ziel anzutreffen.
 
 ![Liste](Bilder Github/Liste 1.PNG)
