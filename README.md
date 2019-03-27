@@ -16,3 +16,7 @@ Für ein Tower-Defence Speil benötigt man zunächst erstmal die Gegner, die ein
 einen Actor und ließen ihn von der Welt immer am gleichen Ort spawnen. Dann gaben wir ihm eine Richtung und eine 
 Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg festgelegt, an dem er sich dreht und in eine andere
 Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
+
+Bild
+
+
