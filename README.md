@@ -18,13 +18,12 @@ Bewegungsgeschwindigkeit. NUn haben wir einen bestimmten Punkt auf seinem Weg fe
 Richtug weiterläuft. Dieses Verfharen haben wir fortgesetzt, bis unser gewünschter Pfad entsteht. 
 
 ![bsp Wegpunkte](Bilder Github/Wegpunkte.PNG)
-
 ![bsp Karte](Bilder Github/Unbekannt.PNG)
 
 Da wir mit der Geschwindigkeit nicht zufrieden waren, haben wir den Smooth-Mover verwendet, um die Geschwindigkeit weiter 
 reduzieren zu können. 
 
-
+![Code Smooth-Mover](Bilder Github/Smooth-Mover 1.PNG)
 
 Nun laufen alle Gegnereinheiten auf unserem gewünschten Pfad in gewünschter Geschwindigleit. Als nächstes braucht man die 
 Abwehrtüme. Diese sollten sich durch Eigenschaften wie Reichweite, Schaden, Feuerrate unterscheiden. Diese Eigenschaften 
@@ -32,24 +31,25 @@ legten wir wie folgt fest:
 
 Reichweite:
 
-Bild
+![Range](Bilder Github/Reichweite.PNG)
 
 Schaden:
 
-Bild
+![Dmg](Bilder Github/Schaden 1.PNG)
+![Dmg](Bilder Github/Schaden 2.PNG)
 
-Feuerrate
+Feuerrate:
 
-Bild
+![Feuerrate](Bilder Github/Feuerrate.PNG)
 
 Um den Schadensaspekt überhaup verwenden zu können, brauchen unsere Gegner auch eine Anzahhl an Lebenspunkten:
 
-Bild
+![HP](Bilder Github/Hp.PNG)
 
 Wenn nun ein Gegner mit einem Projektil eines Turrets kollidiert wir ihm die Anzahl an Lebenspunkten abgezogen, die das 
 Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir er aus der Welt ernfernt:
 
-Bild
+![Remove](Bilder Github/
 
 Dabei haben wir dem noch eine kleich Explosionsanimation hinzugefügt:
 
