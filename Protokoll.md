@@ -19,9 +19,9 @@ nun für eines der Konzepte zu entscheiden. Unsere Wahl traf auf das "Tower-Defe
 wie unser Spiel aufgebaut sein soll und welche Komponenten enthalten sein sollen.
 
 ### 14.01.19:
-Nun folgen erste Umseztungen des Plans in Greenfoot. Die erste Gegnerklasse haben wir auch erstellt und nun wollten wir, dass
-diese immer den gleichen Pfad ablaufen. Dazu haben wir gewisse Wegpunkte festgelegt, an denen sich die Gegner dann in 
-die Richtung des nächsten Wegpunktes drehen. Somit konnten wir dem perfekten Weg konstruieren.
+Nun folgen erste Umseztungen des Plans in Greenfoot. Wir wollten,dass die Gegner immer dem gleichen Pfad auf der Karte ablaufen,
+also erstellten wir Wegpunkte, wo die Gegner in die richtung des nächsten Wegpunktes gedreht werden. So konnten wir unseren
+gewünschten Pfad einrichten.
 
 ### 15.01.19:
 Der Pfad wurde fertiggestellt und wir haben uns weiter Gedanken über die verschiedenen Gegnerklassen gemacht.
