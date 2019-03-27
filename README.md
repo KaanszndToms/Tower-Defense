@@ -39,3 +39,15 @@ Feuerrate
 
 Bild
 
+Um den Schadensaspekt überhaup verwenden zu können, brauchen unsere Gegner auch eine Anzahhl an Lebenspunkten:
+
+Bild
+
+Wenn nun ein Gegner mit einem Projektil eines Turrets kollidiert wir ihm die Anzahl an Lebenspunkten abgezogen, die das 
+Projektil an Schaden verursacht. Sobald er weniger als einen lebenspunkt hat wir er aus der Welt ernfernt:
+
+Bild
+
+Dait hat man schon den groben Ablauf des Spiels fertig, es exsistiert jedoch noch ein maßgebliches Problem: Die Turrets 
+fokussieren einen einzelnen Gegner, bis dieser ausgeschaltet wurde, sondern feuern immer auf den letzten, der in ihre Reichweite
+tritt.
