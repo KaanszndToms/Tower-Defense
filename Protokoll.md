@@ -73,7 +73,13 @@ Im Greenfoot-Buch fanden wir etwas zu Liste in Java und haben dies im Projekt au
 geschafft.
 
 ### 25.03.19:
-Mit Hilfe von Herrn Buhl haben wir den Gegnern eine Variable hinzugefügt die bei allen unterscheidlich ist, um diese in einer Liste zu sortieren zu können.
+Mit Hilfe von Herrn Buhl haben wir den Gegnern eine Variable hinzugefügt die bei allen unterscheidlich ist, um diese in einer Liste sortieren zu können.
 
 ### 26.03.19:
+Jetzt konnten wir die Gegner mithilfe der Liste nach der Variable ordnen und daraus den anzugreifenden Gegner 
+herauslesen lassen. Diese Information kann nun vom Projektil gesehen werden und wés weisß somit welchen Gegner es 
+antreffen soll. Da jedoch nur der Gegner als Objekt bei Zerstörung aus der Welt entfernt wird und nicht aus der Liste gelöscht
+wird haben wir recherchiert wie dies zu bewerkstelligen ist.
+
+
 
