@@ -16,7 +16,7 @@ Somit haben wir diese Stunde mit Brainstorm verbracht.
 ### 08.01.19:
 Nach den Ferien mussten wir uns erst kurz in die Ergebnisse und Mitschriften der letzten Stunde reinarbeiten und lesen, um uns 
 nun für eines der Konzepte zu entscheiden. Unsere Wahl traf auf das "Tower-Defence" Genre. Nun entwarfen wir einen groben Plan,
-wie unser speil aufgebaut sein soll und welche Komponenten enthalten sein sollen.
+wie unser Spiel aufgebaut sein soll und welche Komponenten enthalten sein sollen.
 
 ### 14.01.19:
 Nun folgen erste Umseztungen des Plans in Greenfoot. Die erste Gegnerklasse haben wir auch erstellt und nun wollten wir, dass
